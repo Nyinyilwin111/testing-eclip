@@ -1,0 +1,10 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build output
+target/
+
+# Credentials
+**/cred.json
